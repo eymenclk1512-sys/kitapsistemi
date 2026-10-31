@@ -1,0 +1,10 @@
+{
+  "name": "Çelik Ailesi Kitap Kulübü",
+  "short_name": "Kitap Kulübü",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#172033",
+  "description": "Ailece kitap okuma ve ilerleme takibi",
+  "icons": []
+}
